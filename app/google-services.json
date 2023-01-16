@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "963837865413",
+    "project_id": "fir-de-fran",
+    "storage_bucket": "fir-de-fran.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:963837865413:android:11a611b44e6b6bc78f2fac",
+        "android_client_info": {
+          "package_name": "com.example.dragonquestmonsters"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "963837865413-1r5skulo43d2k0spn5d385cbk2p1jup4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpVWA2YurvvBZfIGxsTHOvCBI-lE4TpKg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "963837865413-1r5skulo43d2k0spn5d385cbk2p1jup4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
